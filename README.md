@@ -32,6 +32,12 @@ O objetivo deste projeto é servir como base de estudo e desenvolvimento para si
 ### Link do Google Drive para extras: Aulas OpenCV
 - https://drive.google.com/drive/folders/1DldSjZ7mRgNWWgeLMOwHFEeveiHbLY_P?usp=drive_link
 
+### Softwares
+- Q Ground Control: https://docs.qgroundcontrol.com/Stable_V5.1/en/qgc-user-guide/getting_started/download_and_install.html
+- Mission Planner: https://github.com/ArduPilot/ardupilot_wiki/blob/master/planner/source/docs/mission-planner-installation.rst
+- GPS u-blox M10: https://u-center2-updates.u-blox.com/u-center2-installer.exe;
+
+
 ## Estrutura do projeto
 
 A estrutura deste repositório pode evoluir com os seguintes elementos:
